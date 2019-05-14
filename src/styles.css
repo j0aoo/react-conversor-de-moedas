@@ -1,0 +1,15 @@
+* {
+	margin: 0;
+	padding: 0;
+	outline: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #fff;
+	font-family: Arial;
+}
+
+#title-header {
+	text-shadow: 1px 1px 2px lightgrey;
+}
